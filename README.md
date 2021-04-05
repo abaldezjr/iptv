@@ -1,2 +1,2 @@
 # iptv
-Esse repositório é para disponibilizar minha lista de canais online.
+Esse repositório é para disponibilizar minha lista de canais online. atualizando
