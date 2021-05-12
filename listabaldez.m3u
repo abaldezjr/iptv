@@ -386,11 +386,6 @@ https://livefocamundo.com:8081/8606/index.m3u8
 #EXTINF:-1 tvg-id="webtvyeeaah" tvg-name="YEEAAH" tvg-logo="https://imgur.com/RuZxFXj.png" tvg-shift="0" group-title="WEB TV",YEEAAH
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
-
-
-
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Variedades", www.listaiptv.gratis
 https://listaiptv.gratis/site.mp4
 
